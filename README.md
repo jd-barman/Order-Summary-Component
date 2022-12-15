@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screen Shot 2022-12-16 at 00.49.09.png)
-![](./Screen Shot 2022-12-16 at 00.51.21.png)
+![Screen Shot 2022-12-16 at 00 49 09](https://user-images.githubusercontent.com/118118656/207956688-72fa3f04-70ea-47c2-88c2-c1f561dc7c8b.png)
+![Screen Shot 2022-12-16 at 00 51 21](https://user-images.githubusercontent.com/118118656/207956759-38e681c3-699f-4cd3-99e1-5732f4c2edc4.png)
+
 
 ### Links
 
