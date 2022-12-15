@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click Here 👈](https://your-live-site-url.com)
+- Live Site URL: [Click Here 👈](https://jb-order-summary-component.vercel.app/)
 
 ### Built with
 
